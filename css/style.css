@@ -296,6 +296,7 @@ a.article-title:hover,
 #main-nav {
   float: left;
   margin-left: -15px;
+  min-width: 560px;
 }
 .main-nav-link,
 #main-nav-toggle,
@@ -352,6 +353,7 @@ a.article-title:hover,
   #sub-nav {
     display: none;
     float: none;
+    min-width: auto;
   }
 }
 #search-form-wrap {
